@@ -1,4 +1,4 @@
-# frontweek-spiderman-fan-ui
+# Frontweek-spiderman-fan-ui
 An amazing project to practice HTML, SCSS and JS 
 
 <h1 align="center">
