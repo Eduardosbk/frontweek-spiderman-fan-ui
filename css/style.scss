@@ -13,7 +13,7 @@
   }
 }
 
-@import './colors';
+@import './partials/colors';
 
 body {
   width: 100%;
@@ -44,7 +44,7 @@ p {
   line-height: 140%;
 }
 
-@import './layout';
-@import './menu';
-@import './animations';
-@import './spacing';
+@import './partials/layout';
+@import './partials/menu';
+@import './partials/animations';
+@import './partials/spacing';
